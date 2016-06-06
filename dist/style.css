@@ -1,0 +1,181 @@
+/* index.html */
+body {
+  font-family: 'Open Sans', sans-serif !important;
+  background-color: #ececec;
+  margin: 0;
+  padding: 0;
+  font-size:12px;
+}
+
+.m-b-0 {
+  margin-bottom: 0px!important;
+}
+
+h1 {
+  font-size: 2em;
+  background-color: #009dcc;
+  color: #fff;
+  padding: 10px 20px 10px 25px;
+  margin-top: 0;
+}
+
+h1 a {
+  color: #fff;
+}
+
+a {
+  text-decoration: none!important;
+}
+
+p {
+  font-weight: lighter;;
+  color: #333333;
+  /*font-size: 30px;*/
+  /* line-height: 40px;*/
+  /* padding-top: 10px; */
+  padding-left: 20px;
+  padding-right: 25px;
+}
+
+hr {
+  margin: 10px 0 0 0;
+}
+
+#big {
+  /*font-size: x-large; */
+  font-weight: bold;
+  font-size: 1.2em;
+  padding-top: 10px;
+}
+
+#bigger {
+  font-weight: bold;
+  font-size: 1.5em;
+  /*font-size: xx-large; */
+  /* padding-top: 5px; */
+  /* line-height: 35px; */
+}
+
+#lighter {
+  font-weight: 600;
+  font-size: 1.2em;
+  padding-bottom: 10px;
+  /* margin-bottom: 40px; */
+}
+
+.title {
+  background-color: #009dcc;
+  border: 1px solid #009dcc;
+  color: #fff;
+  margin-top: 30px;
+}
+
+.content {
+  background-color: #fff;
+  /* height: 600px; */
+  margin: 0 4px 0 4px;
+}
+
+.content2 {
+  padding:0 25px 0 25px;
+}
+
+.gear {
+  font-size: 0.8em !important;
+}
+
+#gearVr {
+  padding-top: 5px;
+}
+
+#gear360 {
+  padding-top: 10px;
+}
+
+#optionGear {
+  font-size: 8px;
+  margin-bottom: 0;
+}
+
+.youTube {
+  padding: 0 19px 0 19px;
+}
+
+#red {
+  background-color: #da2723;
+  /*font-size: 35px;*/
+  margin: 0 40px 0 40px;
+  padding: 10px 40px 10px 40px;
+  position: relative;
+  top: -30px;
+}
+
+#red a {
+  color: #fff;
+  /*font-size: 35px;*/
+  font-weight: 400;
+  font-size: 1.6em;
+}
+
+#red:hover {
+  background-color: rgba(218, 39, 35, 0.8);
+}
+
+/* Pages caractéristique */
+.content2 {
+  padding: 0 25px 0 25px;
+}
+
+h3 {
+  margin-top: 0;
+  color: #666666;
+  /*font-size: 30px;*/
+  padding: 15px 30px 20px 0;
+}
+
+th {
+  vertical-align: center !important;
+}
+
+.tdTitle {
+  width: 30%;
+}
+
+.tdContent {
+  width: 70%;
+}
+
+.blue {
+  background-color: #009dcc;
+  /*font-size: 35px;*/
+  padding: 10px 40px 10px 40px;
+  position: relative;
+  top: 15px;
+}
+
+.blue a {
+  color: #fff;
+  font-weight: 400;
+  font-size: 1.6em;
+}
+
+.blue:hover {
+  background-color: rgba(0, 157, 204, 0.8);
+}
+
+/* swipe */
+
+.swipe {
+  overflow: hidden;
+  visibility: hidden;
+  position: relative;
+}
+.swipe-wrap {
+  overflow: hidden;
+  position: relative;
+}
+.swipe-wrap > div {
+  float:left;
+  width:100%;
+  position: relative;
+}
