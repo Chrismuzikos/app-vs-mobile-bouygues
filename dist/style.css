@@ -1,3 +1,23 @@
+/*--- Google font ---*/
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  src: url('fonts/Open_Sans/OpenSans-Bold.ttf');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 600;
+  src: url('fonts/Open_Sans/OpenSans-Semibold.ttf');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: url('fonts/Open_Sans/OpenSans-Regular.ttf');
+}
+
 /* index.html */
 body {
   font-family: 'Open Sans', sans-serif !important;
