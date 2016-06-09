@@ -223,35 +223,5 @@
       ga('create', 'UA-78754918-1', 'auto');
       ga('send', 'pageview');
     </script>
-    <!-- <script>
-      signageInfo=function() {
-
-      var debug=document.getElementById('result');
-      try {
-      var youtube=window.VSAction.isYoutubeInstalled();
-      var signage=window.VSAction.isSignageModeOn();
-      var timerdelay=window.VSAction.getSignageDelay();
-      var timerconfirm=window.VSAction.getSignageConfirm();
-      if (youtube) debug.innerHTML='<h1>YOUTUBE IS INSTALLED :-)</h1>';
-      else debug.innerHTML='<h1>YOUTUBE IS NOT INSTALLED :-(</h1>';
-      if (signage) debug.innerHTML+='<p><br/><h1>SIGNAGE MODE ON</h1><p><br/><h1>DELAY: '+timerdelay+' CONFIRM: '+timerconfirm+'</h1>';
-      else debug.innerHTML+='<p><br/><h1>SIGNAGE MODE OFF</h1>';
-
-      } catch (e) {
-      debug.innerHTML="<h1>Error: "+e.message+"</h1>";
-      }
-
-
-      }
-
-      signageInfo();
-      setInterval(signageInfo,10000);
-      /*
-      $("h1").slabText({
-                // Don't slabtext the headers if the viewport is under 380px
-                "viewportBreakpoint":380
-      });
-      */
-    </script> -->
   </body>
 </html>
