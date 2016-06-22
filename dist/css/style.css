@@ -31,6 +31,10 @@ body {
   margin-bottom: 0px!important;
 }
 
+.p-r-0 {
+  padding-right: 0;
+}
+
 h1 {
   font-size: 2em;
   /*blue*/
@@ -118,9 +122,9 @@ hr {
 
 .img-lamp-big {
   max-width: 100%;
-  margin-right: 8px;
-  padding-right: 30px;
+  padding-right: 20px;
   padding-bottom: 15px;
+  padding-left: 5px;
 }
 
 .youTube {
