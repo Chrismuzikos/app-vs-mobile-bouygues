@@ -13,3 +13,7 @@ This is an app used to introduce the new smartphones in store retailer.
 - restarts slide after 30s of inactivity
 - header fix
 - all files are stored in local
+
+## to test
+
+To test the rendering, launch the index.html file in Google Chrome and choose, in the inspector tools, the Samsung S5 responsive format.
