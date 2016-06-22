@@ -3,7 +3,7 @@ var timer; //var for reload page
 $( document ).ready(function() {
   window.mySwipe = new Swipe(document.getElementById('slider'), {
     speed: 300,
-    auto: 3000, // define duration slide
+    auto: 5000, // define duration slide
     continuous: true,
     disableScroll: true,
     stopPropagation: false,
