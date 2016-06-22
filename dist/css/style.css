@@ -109,7 +109,7 @@ hr {
 }
 
 .img-lamp {
-  width: 70px;
+  max-width: 100%;
 }
 
 .ml {
@@ -117,7 +117,10 @@ hr {
 }
 
 .img-lamp-big {
-  height: 130px;
+  max-width: 100%;
+  margin-right: 8px;
+  padding-right: 30px;
+  padding-bottom: 15px;
 }
 
 .youTube {
