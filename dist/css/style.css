@@ -64,10 +64,6 @@ hr {
   margin: 10px 0 0 0;
 }
 
-#content-first {
-  height: 315px;
-}
-
 #first {
   /*font-size: x-large; */
   font-weight: bold;
@@ -98,7 +94,6 @@ hr {
   /*red*/
   /*background-color: #C4271E;
   border: 1px solid #C4271E;*/
-
   color: #fff;
   margin-top: 30px;
 }
@@ -111,23 +106,6 @@ hr {
 
 .content2 {
   padding:0 25px 0 25px;
-}
-
-.gear {
-  font-size: 0.8em !important;
-}
-
-#gearVr {
-  padding-top: 5px;
-}
-
-#gear360 {
-  padding-top: 10px;
-}
-
-#optionGear {
-  font-size: 8px;
-  margin-bottom: 0;
 }
 
 .img-lamp {
@@ -148,7 +126,7 @@ hr {
 }
 
 #logo-youtube {
-  position: absolute;;
+  position: absolute;
   height: 40px;
   top: 60px;
   left: 150px;
