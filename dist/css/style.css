@@ -33,7 +33,10 @@ body {
 
 h1 {
   font-size: 2em;
-  background-color: #009dcc;
+  /*blue
+  background-color: #009dcc;*/
+  /*red*/
+  background-color: #C4271E;
   color: #fff;
   padding: 10px 20px 10px 25px;
   margin-top: 0;
@@ -84,8 +87,13 @@ hr {
 }
 
 .title {
+  /*blue
   background-color: #009dcc;
-  border: 1px solid #009dcc;
+  border: 1px solid #009dcc;*/
+  /*red*/
+  background-color: #C4271E;
+  border: 1px solid #C4271E;
+
   color: #fff;
   margin-top: 30px;
 }
@@ -165,22 +173,25 @@ th {
   width: 70%;
 }
 
-.blue {
-  background-color: #009dcc;
+.bg-color {
+  /*blue
+  background-color: #009dcc;*/
+  /*red*/
+  background-color: #C4271E;
   /*font-size: 35px;*/
   padding: 10px 40px 10px 40px;
   position: relative;
   top: 15px;
 }
 
-.blue a {
+.bg-color a {
   color: #fff;
   font-weight: 400;
   font-size: 1.6em;
 }
 
-.blue:hover {
-  background-color: rgba(0, 157, 204, 0.8);
+.bg-color:hover {
+  background-color: rgba(196, 39, 30, 0.8);
 }
 
 /* swipe */
