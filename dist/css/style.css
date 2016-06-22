@@ -33,10 +33,10 @@ body {
 
 h1 {
   font-size: 2em;
-  /*blue
-  background-color: #009dcc;*/
+  /*blue*/
+  background-color: #009dcc;
   /*red*/
-  background-color: #C4271E;
+  /*background-color: #C4271E;*/
   color: #fff;
   padding: 10px 20px 10px 25px;
   margin-top: 0;
@@ -87,12 +87,12 @@ hr {
 }
 
 .title {
-  /*blue
+  /*blue*/
   background-color: #009dcc;
-  border: 1px solid #009dcc;*/
+  border: 1px solid #009dcc;
   /*red*/
-  background-color: #C4271E;
-  border: 1px solid #C4271E;
+  /*background-color: #C4271E;
+  border: 1px solid #C4271E;*/
 
   color: #fff;
   margin-top: 30px;
